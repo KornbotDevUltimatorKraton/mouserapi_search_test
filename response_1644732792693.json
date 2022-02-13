@@ -1,0 +1,5315 @@
+{
+  "Errors": [],
+  "SearchResults": {
+    "NumberOfResult": 98,
+    "Parts": [
+      {
+        "DataSheetUrl": "",
+        "Description": "onsemi ANA LO PWR OP AMP QUAD",
+        "FactoryStock": null,
+        "ImagePath": null,
+        "Category": "onsemi",
+        "LeadTime": "0 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "onsemi",
+        "ManufacturerPartNumber": "LM324",
+        "Min": "0",
+        "Mult": "0",
+        "MouserPartNumber": "N/A",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/onsemi/LM324?qs=%252BEew9%252B0nqrAgjC8%2F0QrEbA%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "RestrictionMessage": "Mouser does not sell this product in your region.",
+        "ProductCompliance": [
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "2833 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/389/cd00001046-1795623.pdf",
+        "Description": "Operational Amplifiers - Op Amps Low power, low input bias current",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/mouserelectronics/images/SO_14_SPL.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "364 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "STMicroelectronics",
+        "ManufacturerPartNumber": "LM324WDT",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "511-LM324WDT",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿15.57",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿12.32",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿9.13",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿7.75",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿5.99",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿5.43",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 5000,
+            "Price": "฿5.29",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/STMicroelectronics/LM324WDT?qs=sjzR5wbTsNodE9OFOWodlw%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "4292 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad General Purpose Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_TSSOP-14_PW_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "245 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324APW",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324APW",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "900"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿33.91",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿30.55",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿28.96",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿23.77",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿22.21",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿19.62",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1080,
+            "Price": "฿15.50",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2160,
+            "Price": "฿14.98",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324APWG4"
+          },
+          {
+            "APMfrPN": " LM324APWR"
+          },
+          {
+            "APMfrPN": " LM324APWRG4"
+          },
+          {
+            "APMfrPN": " LM324KAPW"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324APW?qs=VBduBm9rCJRU9Jfn3C830Q%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "4740 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps LOW PWR QUAD OP AMP",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/TI_PDIP_14.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "112 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324N/NOPB",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "926-LM324N/NOPB",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "550"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿56.40",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿50.86",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿48.09",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿39.44",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿36.68",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿32.66",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿25.78",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿24.95",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324N-NOPB?qs=X1J7HmVL2ZGOUbLumEeh2Q%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330201"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "6 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad General-Purpose Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SO-14_NS_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "567 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324NSRE4",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324NSRE4",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "4000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿16.61",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿14.05",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿9.76",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿8.23",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿6.37",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿5.78",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿5.78",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324NSRE4?qs=VBduBm9rCJTWIKqi4foT1Q%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "5654 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quadruple Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_TSSOP-14_PW_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "275 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324PWRG3",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324PWRG3",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "4000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿17.30",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿13.98",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿8.62",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿7.16",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿5.36",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿4.88",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿4.88",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324PWRG3?qs=C44r%252BX3hXgLCV17Qw8jk5A%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330201"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "25 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad GP Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SSOP-14_DB_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "364 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324ADBR",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324ADBR",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿20.76",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿17.65",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿12.21",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿10.35",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿7.99",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿7.27",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿6.78",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324ADBRG4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324ADBR?qs=6aLkNDRfRUYTEPvPN8b9KA%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1829 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad with 2kV ESD Protection",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SO-14_NS_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "364 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324KANSR",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324KANSR",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿22.14",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿19.00",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿13.18",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿11.14",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿8.62",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿7.82",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿7.34",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324KANS"
+          },
+          {
+            "APMfrPN": " LM324KANSG4"
+          },
+          {
+            "APMfrPN": " LM324KANSRG4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324KANSR?qs=VBduBm9rCJRmOMVqG3Or%252BQ%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1385 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/348/ROHM_S_A0003697605_1-2562025.pdf",
+        "Description": "Operational Amplifiers - Op Amps Ind 4Ch 3-32V Ground Sense",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/rohmsemiconductor/images/sop14_SPL.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "693 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "ROHM Semiconductor",
+        "ManufacturerPartNumber": "LM324F-GE2",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "755-LM324F-GE2",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿30.45",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿27.51",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿26.09",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿21.45",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿20.03",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿17.72",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿13.98",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿12.73",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/ROHM-Semiconductor/LM324F-GE2?qs=HXFqYaX1Q2xzSgVx0jyjhg%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330201"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1633 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad General Purpose Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_TSSOP-14_PW_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "245 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324APWE4",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324APWE4",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "900"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿33.91",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿30.55",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿28.96",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿23.77",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿22.21",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿19.62",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1080,
+            "Price": "฿15.50",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2160,
+            "Price": "฿14.98",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324APWRE4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324APWE4?qs=VBduBm9rCJSHY4Pr1DZ8pQ%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1484 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad with 2kV ESD Protection",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_TSSOP-14_PW_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "245 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324KAPW",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324KAPW",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "810"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿39.10",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿35.29",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿33.39",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿27.40",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿25.60",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿22.63",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1080,
+            "Price": "฿17.85",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2160,
+            "Price": "฿17.30",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324APW"
+          },
+          {
+            "APMfrPN": " LM324KAPWG4"
+          },
+          {
+            "APMfrPN": " LM324KAPWR"
+          },
+          {
+            "APMfrPN": " LM324KAPWRG4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324KAPW?qs=VBduBm9rCJSZcKpEvQpmAw%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1882 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad with 2kV ESD Protection",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_TSSOP-14_PW_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "56 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324KPW",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324KPW",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "810"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿39.10",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿35.29",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿33.39",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿27.40",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿25.60",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿22.63",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1080,
+            "Price": "฿17.85",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2160,
+            "Price": "฿17.30",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324KPWG4"
+          },
+          {
+            "APMfrPN": " LM324KPWR"
+          },
+          {
+            "APMfrPN": " LM324KPWRG4"
+          },
+          {
+            "APMfrPN": " LM324PW"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324KPW?qs=VBduBm9rCJRtr%252BuibCIVUg%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "785 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Switching Voltage Regulators 6MHz, 750mA Miniature, Adjustable, Step-Down DC-DC Converter for RF Power Amplifiers 6-DSBGA -40 to 85",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/TI_DSBGA_6.jpg",
+        "Category": "Switching Voltage Regulators",
+        "LeadTime": "364 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM3241TLX/NOPB",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "926-LM3241TLX/NOPB",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "3000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿55.71",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿50.52",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿47.40",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿40.48",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿38.06",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿33.22",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿27.54",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 3000,
+            "Price": "฿27.51",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM3241TLE/NOPB"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM3241TLX-NOPB?qs=X1J7HmVL2ZFZAFvBLWfTug%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542399000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542390001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330201"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542399000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "8000 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/50/BIVA_S_A0003109762_1-2538628.pdf",
+        "Description": "LED Mounting Hardware LED Mount Self Ret 5mm Black 24MM",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/bivar/images/elm 3-200_750.jpg",
+        "Category": "LED Mounting Hardware",
+        "LeadTime": "36 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Bivar",
+        "ManufacturerPartNumber": "ELM 3-24MM",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "749-ELM-3-24MM",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Bulk"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "1000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿16.95",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿12.08",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿3.77",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿3.08",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿2.39",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10000,
+            "Price": "฿2.15",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25000,
+            "Price": "฿2.01",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 50000,
+            "Price": "฿1.90",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100000,
+            "Price": "฿1.87",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Bivar/ELM-3-24MM?qs=RaByzyhmEWgfFiTLTFCNrA%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8547200000"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8547200000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8547200000"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8547200090"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "9305 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/389/cd00001046-1795623.pdf",
+        "Description": "Operational Amplifiers - Op Amps Quad Low Power",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/mouserelectronics/images/TSSOP_14_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "120 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "STMicroelectronics",
+        "ManufacturerPartNumber": "LM324PT",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "511-LM324P",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿14.88",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿11.97",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿8.89",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿7.54",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿5.81",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿5.26",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/STMicroelectronics/LM324PT?qs=CveI%2FUwZDBIHX0qzHo7hHg%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "85423999"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "964 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/389/cd00001046-1795623.pdf",
+        "Description": "Operational Amplifiers - Op Amps Low Power QUAD 1.3 MHz 100dB",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/mouserelectronics/images/QFN_16_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "165 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "STMicroelectronics",
+        "ManufacturerPartNumber": "LM324QT",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "511-LM324QT",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "3000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿16.61",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿13.36",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿9.93",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿8.41",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿6.50",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 3000,
+            "Price": "฿5.88",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 6000,
+            "Price": "฿5.74",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/STMicroelectronics/LM324QT?qs=T%2FOtf55vL7e5ZEne1Q0m9Q%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330201"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1735 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad GP Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SOIC-14_D_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "570 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324ADR",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324ADR",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "5000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿16.95",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿13.81",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿8.51",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿7.06",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿5.29",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 5000,
+            "Price": "฿4.81",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324AD"
+          },
+          {
+            "APMfrPN": " LM324ADG4"
+          },
+          {
+            "APMfrPN": " LM324ADRG4"
+          },
+          {
+            "APMfrPN": " LM324KADR"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324ADR?qs=j01uVdFEFjGTgJsnyinRPw%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "753 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_PDIP-14_N_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "624 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324N",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324N",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2650"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿16.95",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿14.60",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿10.10",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿8.55",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿6.57",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2650,
+            "Price": "฿6.02",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324N?qs=VolsR0DjNPqtt3qB38bTqw%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "937 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/389/cd00001046-1795623.pdf",
+        "Description": "Operational Amplifiers - Op Amps Quad Low Power",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/mouserelectronics/images/SO_14_SPL.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "364 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "STMicroelectronics",
+        "ManufacturerPartNumber": "LM324ADT",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "511-LM324AD-TR",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿17.30",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿13.74",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿10.21",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿8.65",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿6.68",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿6.06",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/STMicroelectronics/LM324ADT?qs=R9TQeSw%2FgCck5lcgp0iQQA%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "3736 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/389/cd00001046-1795623.pdf",
+        "Description": "Operational Amplifiers - Op Amps Quad Low Power",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/mouserelectronics/images/TSSOP_14_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "179 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "STMicroelectronics",
+        "ManufacturerPartNumber": "LM324APT",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "511-LM324AP",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿17.30",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿13.74",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿10.21",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿8.65",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿6.68",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿6.06",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 5000,
+            "Price": "฿5.88",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/STMicroelectronics/LM324APT?qs=oEBfmysBBxmCDUtMwvW2aQ%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "32 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad GP Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_TSSOP-14_PW_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "618 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324APWR",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324APWR",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "4000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿17.65",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿14.15",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿8.72",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿7.23",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿5.43",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿4.95",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿4.95",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324APW"
+          },
+          {
+            "APMfrPN": " LM324APWG4"
+          },
+          {
+            "APMfrPN": " LM324APWRG4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324APWR?qs=Zu35EjizYSTZ0LQWgQyrHA%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1184 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/389/cd00001046-1795623.pdf",
+        "Description": "Operational Amplifiers - Op Amps Quad Low Power",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/mouserelectronics/images/SO_14_SPL.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "364 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "STMicroelectronics",
+        "ManufacturerPartNumber": "LM324DT",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "511-LM324D-TR",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿17.99",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿13.25",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿8.93",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿7.40",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿5.54",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿5.05",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/STMicroelectronics/LM324DT?qs=CsTVJ1OXCj5AnKfcRRRwqA%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "5728 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad General",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_PDIP-14_N_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "479 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324AN",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324AN",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2050"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿19.72",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿16.82",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿11.63",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿9.83",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿7.58",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2050,
+            "Price": "฿6.92",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4100,
+            "Price": "฿6.47",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324KAN"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324AN?qs=KaAwwOlwapuGsi7hHRxlkw%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "179 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad General-Purpose Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SO-14_NS_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "621 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324NSR",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324NSR",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "4000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿16.61",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿14.05",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿9.76",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿8.23",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿6.37",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿5.78",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿5.78",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324KNSR"
+          },
+          {
+            "APMfrPN": " LM324NSRG4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324NSR?qs=VBduBm9rCJQcjq4eh95DkA%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "339 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/308/1/LM324_D-2314880.pdf",
+        "Description": "Operational Amplifiers - Op Amps 3-32V Quad 3mV VIO Commercial Temp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/mouserelectronics/images/TSSOP_14_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "189 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "onsemi",
+        "ManufacturerPartNumber": "LM324ADTBR2G",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "863-LM324ADTBR2G",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿24.22",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿20.59",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿14.26",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿12.08",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿9.34",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿8.48",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 5000,
+            "Price": "฿8.03",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/onsemi/LM324ADTBR2G?qs=2OtswVQKCOGwhjJiiY2Zhw%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542390000"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542390001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542390990"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "85423999"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SOIC-14_D_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "632 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324ADRG4",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324ADRG4",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿23.53",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿20.10",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿13.94",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿11.80",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿9.13",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿8.27",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324AD"
+          },
+          {
+            "APMfrPN": " LM324ADG4"
+          },
+          {
+            "APMfrPN": " LM324ADR"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324ADRG4?qs=tP77tliwutABG18iaU%2FKpg%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "9 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad General-Purpose Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SOIC-14_D_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "565 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324DE4",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324DE4",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "950"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿32.18",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿28.82",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 50,
+            "Price": "฿27.30",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿22.42",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿20.97",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿18.51",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 950,
+            "Price": "฿14.60",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 3000,
+            "Price": "฿14.15",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324DRE4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324DE4?qs=VBduBm9rCJRVbXFUPosZqA%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "2533 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad GP Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SO-14_NS_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "63 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324ANSR",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324ANSR",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "4000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿19.38",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿16.54",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿11.45",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿9.69",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿7.51",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿6.82",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿6.37",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324ANSRG4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324ANSR?qs=rgxfVHSNRPW4nbuE%252Bx%2F%2FGQ%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "6 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad General Purpose Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SOIC-14_D_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "603 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324ADE4",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324ADE4",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "900"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿33.56",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿30.31",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 50,
+            "Price": "฿28.72",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿23.60",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿22.07",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿19.48",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 900,
+            "Price": "฿15.40",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 3000,
+            "Price": "฿14.88",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324ADRE4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324ADE4?qs=VBduBm9rCJR9hxf%2FN0loWQ%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "85423999"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "64 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad with 2kV ESD Protection",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_PDIP-14_N_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "102 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324KN",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324KN",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "1550"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿22.49",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿19.76",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿15.12",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿14.01",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿11.94",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿9.55",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿8.65",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324KN?qs=VBduBm9rCJSIuBQA3R%252BecA%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "125 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad with 2kV ESD Protection",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SOIC-14_D_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "505 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324KAD",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324KAD",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "800"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿39.10",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿35.29",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 50,
+            "Price": "฿33.35",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿27.40",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿25.60",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿22.63",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 800,
+            "Price": "฿17.85",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 3000,
+            "Price": "฿17.30",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324AD"
+          },
+          {
+            "APMfrPN": " LM324KADG4"
+          },
+          {
+            "APMfrPN": " LM324KADR"
+          },
+          {
+            "APMfrPN": " LM324KADRG4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324KAD?qs=VBduBm9rCJS6D7PMskTGoA%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "2586 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/308/1/LM324_D-2314880.pdf",
+        "Description": "Operational Amplifiers - Op Amps OP AMP LOW PWR QUAD",
+        "FactoryStock": "0",
+        "ImagePath": null,
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "97 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "onsemi",
+        "ManufacturerPartNumber": "LM324EDR2G",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "863-LM324EDR2G",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿15.92",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿13.63",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿9.45",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿7.99",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿6.19",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿5.61",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 5000,
+            "Price": "฿5.33",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/onsemi/LM324EDR2G?qs=z6PAvqrnkvRE4xSIM8nJyA%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542390000"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542390001"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542399901"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "104 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/348/ROHM_S_A0011789091_1-2563323.pdf",
+        "Description": "Operational Amplifiers - Op Amps Ind 4Ch 3-32V Ground Sense",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/rohmsemiconductor/images/tssop_b14j_SPL.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "693 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "ROHM Semiconductor",
+        "ManufacturerPartNumber": "LM324FVJ-E2",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "755-LM324FVJ-E2",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿30.45",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿27.51",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿26.09",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿21.45",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿20.03",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿17.72",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿13.98",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿12.73",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/ROHM-Semiconductor/LM324FVJ-E2?qs=4v%252BiZTmLVHELQFFP7WcfNg%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330201"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "262 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad with 2kV ESD Protection",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_PDIP-14_N_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "95 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324KAN",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324KAN",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "1550"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿22.49",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿19.76",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿15.12",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿14.01",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿11.94",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿9.55",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿8.65",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324AN"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324KAN?qs=VBduBm9rCJRYMhhder83rQ%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1126 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad General-Purpose Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SO-14_NS_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "245 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324NSRG4",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324NSRG4",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "4000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿16.61",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿14.05",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿9.76",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿8.23",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿6.37",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿5.78",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿5.40",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324NSR"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324NSRG4?qs=VBduBm9rCJSyXucolIKVcw%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1752 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad with 2kV ESD Protection",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SO-14_NS_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "56 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324KNSR",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324KNSR",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿22.14",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿19.00",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿13.18",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿11.14",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿8.62",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿7.82",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿7.34",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324KNS"
+          },
+          {
+            "APMfrPN": " LM324KNSG4"
+          },
+          {
+            "APMfrPN": " LM324KNSRG4"
+          },
+          {
+            "APMfrPN": " LM324NSR"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324KNSR?qs=VBduBm9rCJSByDrpUcj1IQ%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "2 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad General Purpose Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_TSSOP-14_PW_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "601 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324APWRG4",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324APWRG4",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "4000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿15.22",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿12.94",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿9.00",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿7.61",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿5.88",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿5.33",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿5.33",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324APW"
+          },
+          {
+            "APMfrPN": " LM324APWG4"
+          },
+          {
+            "APMfrPN": " LM324APWR"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324APWRG4?qs=VBduBm9rCJSpxnz%252BfiTM7w%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "808 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/50/BIVA_S_A0003109762_1-2538628.pdf",
+        "Description": "LED Mounting Hardware LED Mount Self Ret 5mm Black .240 inch",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/bivar/images/elm 3-200_750.jpg",
+        "Category": "LED Mounting Hardware",
+        "LeadTime": "0 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Bivar",
+        "ManufacturerPartNumber": "ELM 3-240",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "749-ELM-3-240",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Bulk"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "1000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿9.00",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿6.82",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿2.18",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿1.66",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿1.28",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10000,
+            "Price": "฿1.18",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25000,
+            "Price": "฿1.14",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 50000,
+            "Price": "฿1.07",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100000,
+            "Price": "฿1.00",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Bivar/ELM-3-240?qs=RaByzyhmEWiep5gGk5In0A%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8547200000"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8547200000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8547200000"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8547200090"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "2657 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad with 2kV ESD Protection",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_TSSOP-14_PW_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "112 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324KAPWR",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324KAPWR",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿20.07",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿17.23",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿11.94",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿10.10",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿7.82",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿7.09",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿6.64",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324KAPW"
+          },
+          {
+            "APMfrPN": " LM324KAPWG4"
+          },
+          {
+            "APMfrPN": " LM324KAPWRG4"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324KAPWR?qs=VBduBm9rCJT8QyuiDYxUYw%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "916 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad with 2kV ESD Protection",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_TSSOP-14_PW_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "112 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324KAPWRG4",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324KAPWRG4",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿20.07",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿17.23",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿11.94",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿10.10",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿7.82",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿7.09",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿6.64",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324KAPW"
+          },
+          {
+            "APMfrPN": " LM324KAPWG4"
+          },
+          {
+            "APMfrPN": " LM324KAPWR"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324KAPWRG4?qs=VBduBm9rCJRA5CuwF%2FRDuw%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "3 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Power Management IC Development Tools LM3248 EVAL MOD",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/lm3248evm_SPL.jpg",
+        "Category": "Power Management IC Development Tools",
+        "LeadTime": "0 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM3248EVM",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM3248EVM",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "1"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿4,555.78",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM3248EVM?qs=gNSudQoqUYBabFC4K0h2iA%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "SalesMaximumOrderQty": "3",
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8543909000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8473301180"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8473300499"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8473302000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "220 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad Op Amp",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SO-14_NS_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "364 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324ANSRG4",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324ANSRG4",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "4000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿19.38",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿16.54",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿11.45",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿9.69",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿7.51",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2000,
+            "Price": "฿6.82",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 4000,
+            "Price": "฿6.37",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324ANSR"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324ANSRG4?qs=O7ZcnZfxQnasFrwe49q%2FzA%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "498 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Switching Voltage Regulators 2.7MHz,2.5A SD DC/DC Converter",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/TI_DSBGA_16.jpg",
+        "Category": "Switching Voltage Regulators",
+        "LeadTime": "42 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM3243TME/NOPB",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "926-LM3243TME/NOPB",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "750"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿53.98",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿48.79",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿46.02",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿38.06",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿35.29",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿31.21",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 750,
+            "Price": "฿24.64",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2250,
+            "Price": "฿23.84",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM3243TMX/NOPB"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM3243TME-NOPB?qs=iiglMaU8SAcCfx4kVBlB%252Bw%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542390000"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542399000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542390001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "854239099"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542399901"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542399000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "3 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Power Management IC Development Tools LM3241 Eval Module",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/lm3241tleval_nopb_SPL.jpg",
+        "Category": "Power Management IC Development Tools",
+        "LeadTime": "0 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM3241TLEVAL/NOPB",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM3241TLEVALNOPB",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "1"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿2,254.88",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM3241TLEVAL-NOPB?qs=biyDIajrTn6AhOtZB%252Bharw%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "Not Applicable",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "SalesMaximumOrderQty": "3",
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8473309000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8473301180"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8473300499"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8473302000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "2 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Power Management IC Development Tools LM3243 Eval Mod",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/lm3243evm_nopb_SPL.jpg",
+        "Category": "Power Management IC Development Tools",
+        "LeadTime": "0 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM3243EVM/NOPB",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "926-LM3243EVM/NOPB",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Bulk"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "1"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿2,254.88",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM3243EVM-NOPB?qs=68GxhE0ioE0EsaW92yxtKQ%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "Not Applicable",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "SalesMaximumOrderQty": "3",
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8543709990"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8473301180"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8473300499"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8473302000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "3 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Power Management IC Development Tools LM3242 Eval Mod",
+        "FactoryStock": "0",
+        "ImagePath": null,
+        "Category": "Power Management IC Development Tools",
+        "LeadTime": "0 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM3242TM-EV/NOPB",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "926-LM3242TM-EV/NOPB",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "1"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿2,254.88",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM3242TM-EV-NOPB?qs=68GxhE0ioE0FNI%2F6Cq8J6Q%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "Not Applicable",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "SalesMaximumOrderQty": "3",
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "9030820000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "9030820000"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8473302000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "3 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Quad with 2kV ESD Protection",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SOIC-14_D_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "245 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324KADRG4",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "595-LM324KADRG4",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿20.07",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿17.23",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿11.94",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿10.10",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿7.82",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿7.09",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324KAD"
+          },
+          {
+            "APMfrPN": " LM324KADG4"
+          },
+          {
+            "APMfrPN": " LM324KADR"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324KADRG4?qs=VBduBm9rCJRIyuoPqpHnYg%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330299"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "398 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Switching Voltage Regulators 6MHz 750mA Mini Adj SD DC-DC",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/TI_DSBGA_9.jpg",
+        "Category": "Switching Voltage Regulators",
+        "LeadTime": "364 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM3242TME/NOPB",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "926-LM3242TME/NOPB",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿66.78",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿60.55",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿57.09",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿48.44",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿45.33",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿39.79",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿32.97",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM3242TMX/NOPB"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM3242TME-NOPB?qs=8BDZloOR%252BZEj%252BcNjLaDk%252Bg%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542390000"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542399000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542390001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330201"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542399000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "57 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Low Power Quad Operational Amplifier 14-CDIP 0 to 70",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_CDIP-14_J_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "42 Days",
+        "LifecycleStatus": "",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324J",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "926-LM324J",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Tube"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "50"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿584.05",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿536.99",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿514.50",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324J?qs=X1J7HmVL2ZF9pjEt5RV7wQ%3D%3D",
+        "Reeling": false,
+        "ROHSStatus": "No",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542319090"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330201"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      },
+      {
+        "Availability": "1 In Stock",
+        "DataSheetUrl": "",
+        "Description": "Operational Amplifiers - Op Amps Low power general-purpose quad operational amplifier 14-SOIC 0 to 70",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/texasinstruments/images/ITP_TI_SOIC-14_D_t.jpg",
+        "Category": "Operational Amplifiers - Op Amps",
+        "LeadTime": "579 Days",
+        "LifecycleStatus": "Not Recommended for New Designs",
+        "Manufacturer": "Texas Instruments",
+        "ManufacturerPartNumber": "LM324MX",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "926-LM324MX",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "฿62.97",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 10,
+            "Price": "฿56.74",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 25,
+            "Price": "฿53.63",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 100,
+            "Price": "฿45.67",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 250,
+            "Price": "฿42.90",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 500,
+            "Price": "฿37.71",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "฿31.04",
+            "Currency": "THB"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "฿31.00",
+            "Currency": "THB"
+          }
+        ],
+        "AlternatePackagings": [
+          {
+            "APMfrPN": "LM324M"
+          }
+        ],
+        "ProductDetailUrl": "https://th.mouser.com/ProductDetail/Texas-Instruments/LM324MX?qs=X1J7HmVL2ZFfWjv0tFRzYg%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "No",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542330090"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542339000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542330001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542330996"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532331000"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "8542330201"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542330000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      }
+    ]
+  }
+}
