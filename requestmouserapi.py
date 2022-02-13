@@ -1,3 +1,4 @@
+import os 
 import json 
 import urllib.request
 from urllib import request
@@ -31,15 +32,21 @@ datajson = dataout.get(list(dataout)[1])
 print(list(datajson))
 print(datajson.get(list(datajson)[1]))
 getpart = datajson.get(list(datajson)[1]) 
+mode = 0o777
 pathpdf = "/home/"+username+"/"+"Parts_pdf/"
+try:
+  os.mkdir(pathpdf,mode)
+except:
+  print("Directory was created!") 
 def downloadpdf(pdflink,filename):
+     try:
         response = urllib.request.urlopen(pdflink) 
         file = open(pathpdf+filename+'.pdf','wb') 
         file.write(response.read()) 
-        file.close() 
-
+     except: 
+         print("Not found link")
 for j in list(getpart): 
        Link_Data = j.get('DataSheetUrl')
        print("File name: ",Link_Data,j.get('DataSheetUrl').split('/')[len(j.get('DataSheetUrl').split('/'))-1])
        filename = j.get('DataSheetUrl').split('/')[len(j.get('DataSheetUrl').split('/'))-1]
-       #downloadpdf(Link_Data,filename) 
+       downloadpdf(Link_Data,filename) 
