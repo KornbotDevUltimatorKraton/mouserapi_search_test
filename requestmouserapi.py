@@ -31,4 +31,4 @@ print(list(datajson))
 print(datajson.get(list(datajson)[1]))
 getpart = datajson.get(list(datajson)[1]) 
 for j in list(getpart): 
-       print(j)
+       print("Getpart data: ",j.get('DataSheetUrl'))
