@@ -21,7 +21,9 @@ data = {
 }
 
 r = requests.post('https://api.mouser.com/api/v1/search/keyword?apiKey=cf621336-fea9-4734-81dd-a8442ed3e05c', headers=headers,json=data)
+dataout = r.json()
+print(dataout)
 print(r.status_code)
-print(r.raise_for_status())
+
 
 
